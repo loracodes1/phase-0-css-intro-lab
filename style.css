@@ -1,11 +1,13 @@
 /* Tag selector to select the 'body' element */
 body {
   /* Your code here! */
+  background-color: #00b3e6;
 }
 
 /* Tag selector to select all 'div' elements. We only have one 'div' in our HTML */
 div {
   /* Your code here! */
+  width: 700px;
 }
 
 /* ID selector to select the element with id 'main-header' */
